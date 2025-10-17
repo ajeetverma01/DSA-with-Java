@@ -6,7 +6,7 @@ public class MultiDimentionalArray {
         String arr[][][] = new String[3][3][3];
         Scanner sc = new Scanner(System.in);
 
-        // Taking input in 3d array
+        //input in 3d array
         for (int i = 0; i < arr.length; i++) {
             for (int j = 0; j < arr[i].length; j++) {
                 for (int j2 = 0; j2 < arr[i][j].length; j2++) {
@@ -16,7 +16,7 @@ public class MultiDimentionalArray {
         }
 
         System.err.println("Printing.............................");
-        // Printing 3d array
+        // Printing
         for (int i = 0; i < arr.length; i++) {
             for (int j = 0; j < arr[i].length; j++) {
                 for (int j2 = 0; j2 < arr[i][j].length; j2++) {
