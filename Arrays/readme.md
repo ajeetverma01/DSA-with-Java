@@ -31,5 +31,5 @@ javac ProgName.java
 java ProgName
 
 ```
-If using any ide, so it is not needed 😊
+If using any IDE, so it is not needed 😊
  
