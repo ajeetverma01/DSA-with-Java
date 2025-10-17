@@ -22,6 +22,14 @@ Learning Data Structures and Algorithms in Java.
 - Sorting (Bubble, Selection, Insertion)
 
 ### How to Run
+
+Filenames are diff so: 
+
 ```bash
-javac FileName.java
-java FileName
+
+javac ProgName.java
+java ProgName
+
+```
+If using any ide, so it is not needed 😊
+ 
