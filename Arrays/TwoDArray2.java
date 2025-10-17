@@ -1,3 +1,4 @@
+package Arrays;
 import java.util.Arrays;
 
 // The number of column is not fixed
