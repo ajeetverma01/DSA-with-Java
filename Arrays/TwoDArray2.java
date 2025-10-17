@@ -1,5 +1,6 @@
 package Arrays;
 import java.util.Arrays;
+import java.util.Scanner;
 
 // The number of column is not fixed
 public class TwoDArray2 {
