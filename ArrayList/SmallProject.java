@@ -9,7 +9,7 @@ class SmallProject {
 
     public static void main(String[] args) throws IOException {
 
-        Ques1 q1 = new Ques1();
+        SmallProject q1 = new SmallProject();
         q1.defaultDetails();
     }
 
@@ -89,7 +89,7 @@ class SmallProject {
         runAgain();
     }
 
-    void updateNames() throws IOException {
+    void updateNames() throws IOException { //This is not working .... 
         System.out.print("Enter name to update: ");
         String oldName = br.readLine();
         System.out.print("Enter new name: ");
