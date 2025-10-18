@@ -19,8 +19,7 @@ class MultiDimentionArrayList {
         System.out.println(arr);
 
 
-
-
+        // Closing the scanner : Chatgpt nhi use kiya hai, don't worry
         in.close(); 
     }
 }
