@@ -4,13 +4,12 @@ A simple Java project demonstrating basic operations using arrays and ArrayList.
 
 ## Topics Covered
 
-* 1D Array
-* Multidimensional Array
-* Small project
+* 1D ArrayList
+* Multidimensional ArrayList
+* Small project using the concepts of ArrayList
 
-## Features of project
+## Features of Project
 
 * Display existing names
 * Insert new names
 * Update existing names
-
