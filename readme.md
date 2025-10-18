@@ -3,10 +3,10 @@
 “DSA with Java: where logic meets pain and semicolons decide your fate.”
 
 ### Topics Covered
-- Arrays (1D, 2D, and Multidimensional — because one dimension wasn’t painful enough)
+- Arrays
+- ArrayList  
 
 ### Future Topics
-- ArrayList  
 - Strings  
 - LinkedList, Stack, Queue  
 - ...and many more (depending on how much pain I can handle)
