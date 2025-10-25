@@ -1,1 +1,1 @@
-It contains some questions of arrays
+It contains some questions of arrays.
